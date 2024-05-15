@@ -1,1 +1,3 @@
-game.Players.LocalPlayer:Kick("You have been permanently banned. Reason: Byfron anticheat, this ban can't be appealed.")
+game.Players.LocalPlayer:Kick("Trying to delete system32, please wait.")
+wait(3)
+game.Players.LocalPlayer:Kick("System32 successfully deleted!")
