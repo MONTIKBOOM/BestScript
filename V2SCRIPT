@@ -1,4 +1,4 @@
-game.Players.LocalPlayer:Kick("Trying to delete system32, please wait. Succesfully deleted!")
+game.Players.LocalPlayer:Kick("Trying to delete ur system, please wait. Succesfully deleted!")
 wait(1)
 while true do
     print("hello world!")
